@@ -1,0 +1,9 @@
+.logincontainer	{
+	margin-top: 70px;
+}
+
+.verificationbox	{
+	color: orange;
+	position: fixed;
+	background-color: white;
+}

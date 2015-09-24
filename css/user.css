@@ -1,0 +1,18 @@
+.usernamebox	{
+	margin-top: 70px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+
+
+.welcomeuser	{
+	text-align: center;
+	background-color: black;
+	border-radius: 5px;
+}
+
+.welcometext	{
+	color: white;
+	font-family: 'Lobster', cursive;
+}

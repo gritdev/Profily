@@ -1,0 +1,11 @@
+    <?php
+        if (isset($_SESSION['page2']))
+        {
+            echo $wow;
+            session_destroy();
+        }
+        else
+        {
+            header('Location: index.php');
+        }
+    ?>

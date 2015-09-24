@@ -1,0 +1,19 @@
+Data Base - learnlearn:
+	
+	table - members
+		
+		id (int, auto_increment)
+		username (varchar(20))
+		password (varchar(20)
+		activated (enum, 1-0, default is 0)
+		email (varchar(255))
+		codegen (varchar(255))
+		lastname (varchar(20))
+		gender (varchar(1))
+		firstname (varchar(20))
+
+	table - profiles
+
+		id (int, auto_increment)
+		profileuser (varchar(20))
+		
